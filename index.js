@@ -44,6 +44,7 @@ module.exports = {
 
                 gtag('config', '${trackingId}');
               </script>`;
+    console.log(scripts)
 
     return script;
   },
