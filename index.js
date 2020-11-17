@@ -13,6 +13,8 @@ module.exports = {
      const env = envConfig.environment;
      let content = '';
 
+     console.log(type)
+
      if ( type === 'head' ) {
        content += this.addGoogleAnalytics(envConfig, env);
      }
