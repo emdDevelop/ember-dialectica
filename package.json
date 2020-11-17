@@ -1,9 +1,9 @@
 {
   "name": "ember-dialectica",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "google analytics tracker",
   "keywords": [
-    "ember-addon"
+    "google analytics tracker"
   ],
   "repository": "",
   "license": "MIT",
